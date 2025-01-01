@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
   - Improve the UI by using different fonts/colors/background
     - Feel free to play around with other elements, such as image views, textfields, etc.
     - Implement a way to change the color of the text as well
-
+![] https://i.imgur.com/a7xvwX2.gif
 ## License
 
     Copyright [yyyy] [name of copyright owner]
